@@ -1,7 +1,0 @@
-train: C:/Users/18023/Desktop/yolo_project/dataset_split/images/train_aug
-val: C:/Users/18023/Desktop/yolo_project/dataset_split/images/test_aug
-
-nc: 1
-
-names:
-  - 'formula'
